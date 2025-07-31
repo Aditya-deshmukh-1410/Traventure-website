@@ -82,12 +82,7 @@ const swiperTestimonial = new Swiper('.testimonial__swiper',{
 
 /*=============== SHOW SCROLL UP ===============*/ 
 
-// const scrollUp =()=>{
-//     const scrollUp = document.getElementById('scroll-up')
-//     window.scrollY >= 350
-//     ?scrollUp.classList.add('show-scroll')
-//     :scrollUp.classList.remove('show-scroll')
-// }
+
 
 const scrollUp = () => {
   const scrollUp = document.getElementById('scroll-up');
