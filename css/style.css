@@ -284,9 +284,6 @@ img {
 }
 
 
-
-
-
 /*=============== HOME ===============*/
 
 .home{
@@ -393,7 +390,7 @@ img {
   transition: background-color 0.4s;
 }
 
-/*=============== BUTTON ===============*/
+/*=============== Button ===============*/
 
 .button{
   display: inline-flex;
@@ -423,7 +420,7 @@ img {
   background-color: var(--opacity-color-30);
 }
 
-/*=============== DESTINATION ===============*/
+/*=============== DESTINATION. ===============*/
 
 .destination__container{
   grid-template-columns: 300px;
@@ -482,7 +479,7 @@ img {
   transform: scale(1.2);
 }
 
-/*=============== TESTIMONIAL ===============*/
+/*=============== TESTIMONIAL. ===============*/
 
 .testimonial__container{
   justify-content: center;
