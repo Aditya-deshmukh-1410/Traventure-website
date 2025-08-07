@@ -26,8 +26,10 @@
 - **[Netlify](https://www.netlify.com/)** (for deployment)
 
 ## 🌐 Live Demo
+✈️ Ready to take off?
+🌍 Start your journey with Traventure: 
 
-👉 [Visit Traventure](https://go-traventure.netlify.app)
+👉 [Launch Demo](https://go-traventure.netlify.app)
 
 
 ## 📁 Folder Structure
