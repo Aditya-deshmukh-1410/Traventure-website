@@ -54,9 +54,8 @@ Traventure-website/
 ---
 
 ## 🙋‍♂️ Let's Connect
-Aditya Deshmukh (he/him)
+- **Aditya Deshmukh** (he/him)  
 If you like this project or want to collaborate, feel free to connect:
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-deshmukh-1410/)
 - 🛠️ [GitHub](https://github.com/Aditya-deshmukh-1410)
 
