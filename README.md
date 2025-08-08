@@ -61,7 +61,7 @@ If you like this project or want to collaborate, feel free to connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-deshmukh-1410/)
 - 🛠️ [GitHub](https://github.com/Aditya-deshmukh-1410)
 
----
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
 Thanks for checking out **Traventure**! 🌍  
