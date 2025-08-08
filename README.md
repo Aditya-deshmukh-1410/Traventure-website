@@ -53,7 +53,7 @@ Traventure-website/
    
 2. Navigate into the folder and open index.html in your browser.
 3. Optionally, use VS Code’s Live Server or similar for a local preview.
----
+
 
 ## 🙋‍♂️ Let's Connect
 - **Aditya Deshmukh** (he/him)  
