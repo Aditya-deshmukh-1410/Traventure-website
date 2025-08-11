@@ -1,6 +1,6 @@
 # 🌍 Traventure – Travel Your Journey
 
-**Traventure** is a modern, fully responsive frontend travel website that allows users to explore scenic destinations across the globe. Built with elegant UI elements like destination cards, smooth image sliders, and scroll animations — it delivers a visually immersive browsing experience across all the devices
+**Traventure** is a modern, fully responsive frontend travel website that allows users to explore scenic destinations across the globe. Built with elegant UI elements like destination cards, smooth image sliders, and scroll animations — it delivers a visually immersive browsing experience across all the devices.
 
 ## ✨ Features
 
